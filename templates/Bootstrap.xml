@@ -1,5 +1,5 @@
 <templateSet group="Bootstrap">
-  <template name="formgroup" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label for=&quot;$TAG_ID$&quot;&gt;$TITLE$&lt;/label&gt;&#10;    &lt;input type=&quot;text&quot; class=&quot;form-control&quot; id=&quot;$TAG_ID$&quot; placeholder=&quot;$PLACEHOLDER$&quot;&gt;&#10;&lt;/div&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="formgroup" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label for=&quot;$TAG_ID$&quot;&gt;$TITLE$&lt;/label&gt;&#10;    &lt;input type=&quot;text&quot; class=&quot;form-control&quot; id=&quot;$TAG_ID$&quot; placeholder=&quot;$PLACEHOLDER$&quot;&gt;&#10;&lt;/div&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TAG_ID" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PLACEHOLDER" expression="" defaultValue="" alwaysStopAt="true" />
