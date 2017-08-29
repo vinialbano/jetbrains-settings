@@ -9,6 +9,9 @@
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
   </JSCodeStyleSettings>
+  <JSON>
+    <option name="ARRAY_WRAPPING" value="5" />
+  </JSON>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -18,6 +21,10 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <codeStyleSettings language="JSON">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
