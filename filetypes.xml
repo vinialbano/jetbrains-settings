@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="template" type="JSON" />
       <mapping pattern="gd" type="PLAIN_TEXT" />
       <mapping pattern="Stanford" type="PLAIN_TEXT" />
