@@ -1,0 +1,16 @@
+<templateSet group="Javascript Test">
+  <template name="it" value="it('$DESCRIPTION$', () =&gt; {&#10;    $ASSERTIONS$&#10;})" description="Mocha 'it' wrapper" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ASSERTIONS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="descbribe" value="describe('$DESCRIPTION$', () =&gt; {&#10;    $ASSERTIONS$&#10;})" description="Mocha 'describe' wrapper" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ASSERTIONS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
