@@ -25,6 +25,9 @@
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
       </action>
+      <action id="com.wallaby.javascript.actions.ShowValueAction">
+        <abbreviation name="wallaby" />
+      </action>
       <action id="com.wallaby.javascript.actions.RunAllTestsAction">
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
