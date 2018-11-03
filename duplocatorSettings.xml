@@ -1,0 +1,27 @@
+<application>
+  <component name="DuplocatorSettings">
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="CSS" />
+        <option value="ECMA Script Level 4" />
+        <option value="ECMAScript 6" />
+        <option value="JavaScript" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="ECMA Script Level 4" />
+  </component>
+  <component name="MultiLanguageDuplocatorSettings">
+    <object language="ECMA Script Level 4">
+      <option name="DISTINGUISH_FUNCTIONS" value="false" />
+      <option name="DISTINGUISH_LITERALS" value="false" />
+    </object>
+    <object language="ECMAScript 6">
+      <option name="DISTINGUISH_FUNCTIONS" value="false" />
+      <option name="DISTINGUISH_LITERALS" value="false" />
+    </object>
+    <object language="JavaScript">
+      <option name="DISTINGUISH_FUNCTIONS" value="false" />
+      <option name="DISTINGUISH_LITERALS" value="false" />
+    </object>
+  </component>
+</application>
