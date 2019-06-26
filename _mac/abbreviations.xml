@@ -12,7 +12,6 @@
       <action id="com.wallaby.javascript.actions.UpdateFileSnapshotsAction">
         <abbreviation name="wallaby" />
       </action>
-      <action id="ShowUmlDiagram" />
       <action id="com.wallaby.javascript.actions.UpdateProjectSnapshotsAction">
         <abbreviation name="wallaby" />
       </action>
@@ -38,8 +37,12 @@
       <action id="com.wallaby.javascript.actions.ShowValueAction">
         <abbreviation name="wallaby" />
       </action>
+      <action id="ShowUmlDiagram" />
       <action id="com.wallaby.javascript.actions.RunAllTestsAction">
         <abbreviation name="w" />
+        <abbreviation name="wallaby" />
+      </action>
+      <action id="com.wallaby.javascript.actions.CopyValueAction">
         <abbreviation name="wallaby" />
       </action>
     </abbreviations>
