@@ -1,25 +1,36 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="com.wallaby.javascript.actions.RunTestAction">
-        <abbreviation name="w" />
-        <abbreviation name="wallaby" />
-      </action>
       <action id="com.wallaby.javascript.actions.ShowLineUncoveredRangesAction">
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
       </action>
+      <action id="com.wallaby.javascript.actions.RunTestAction">
+        <abbreviation name="w" />
+        <abbreviation name="wallaby" />
+      </action>
+      <action id="com.wallaby.javascript.actions.ShowValueAction">
+        <abbreviation name="wallaby" />
+      </action>
+      <action id="com.wallaby.javascript.actions.ShowFileUncoveredRangesAction">
+        <abbreviation name="w" />
+        <abbreviation name="wallaby" />
+      </action>
+      <action id="com.wallaby.javascript.actions.ResetTestFilterAction">
+        <abbreviation name="wallaby" />
+      </action>
+      <action id="ShowUmlDiagram" />
       <action id="com.wallaby.javascript.actions.UpdateFileSnapshotsAction">
         <abbreviation name="wallaby" />
       </action>
       <action id="com.wallaby.javascript.actions.UpdateProjectSnapshotsAction">
         <abbreviation name="wallaby" />
       </action>
-      <action id="com.wallaby.javascript.actions.RunTestFileAction">
+      <action id="com.wallaby.javascript.actions.ShowLineTestsAction">
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
       </action>
-      <action id="com.wallaby.javascript.actions.ShowLineTestsAction">
+      <action id="com.wallaby.javascript.actions.RunAllTestsAction">
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
       </action>
@@ -30,16 +41,11 @@
       <action id="com.wallaby.javascript.actions.UpdateTestSnapshotsAction">
         <abbreviation name="wallaby" />
       </action>
-      <action id="com.wallaby.javascript.actions.ShowFileUncoveredRangesAction">
+      <action id="com.wallaby.javascript.actions.RunTestFileAction">
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
       </action>
-      <action id="com.wallaby.javascript.actions.ShowValueAction">
-        <abbreviation name="wallaby" />
-      </action>
-      <action id="ShowUmlDiagram" />
-      <action id="com.wallaby.javascript.actions.RunAllTestsAction">
-        <abbreviation name="w" />
+      <action id="com.wallaby.javascript.actions.ToggleTestFilterAction">
         <abbreviation name="wallaby" />
       </action>
       <action id="com.wallaby.javascript.actions.CopyValueAction">
