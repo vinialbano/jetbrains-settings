@@ -5,14 +5,14 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".quokka" type="JSON" />
       <mapping ext="template" type="JSON" />
-      <mapping pattern="gd" type="PLAIN_TEXT" />
       <mapping pattern="Stanford" type="PLAIN_TEXT" />
-      <mapping pattern=".env.copy" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="gd" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.copy" type="PLAIN_TEXT" />
       <mapping ext="paa" type="PLAIN_TEXT" />
-      <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="fas" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
